@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hola, soy Juan David 👋
 
-<!--
-**JuanChiki/JuanChiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería Informática (6.º semestre) y técnico en programación de software.
+Me gusta crear juegos y aplicaciones web, y aprender cosas nuevas.
 
-Here are some ideas to get you started:
+## Tecnologías
+Python · Java · JavaScript · PHP · C# · HTML/CSS · MySQL · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+- **Space**: juego del espacio hecho en ASCII
+- **Ecos Aether**: RPG en página web
+- **Void Trade**: juego web de asteroides
+- **Biblioteca**: gestión de libros y préstamos con PHP
+
+## Contacto
+[LinkedIn](https://linkedin.com/in/juan-david-rojas-villegas-2a6a341b5) · juandavidrojasvillegas@gmail.com
