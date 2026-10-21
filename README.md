@@ -8,9 +8,10 @@
  ███   ███  █   █ █   █   █   █  ███   ███  █   █ ████ 
 ```
 
-`.      *        +      .         *      .        +      .`
+`.      *        +      .         *      .        +      .      *        +      .         *      .        +      .`
 
 **Técnico en Programación de Software · Estudiante de Ingeniería Informática**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-b794f6?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/juan-david-rojas-villegas-2a6a341b5)
 [![Correo](https://img.shields.io/badge/Correo-f0abfc?style=flat-square&logo=gmail&logoColor=black)](mailto:juandavidrojasvillegas@gmail.com)
@@ -54,14 +55,11 @@ Me gusta crear juegos y aplicaciones web, aprender cosas nuevas y resolver probl
 | # | Proyecto | Qué es | Tecnología |
 |---|----------|--------|------------|
 | 01 | [Space](https://github.com/JuanChiki/Space) | Juego del espacio hecho con arte ASCII | JavaScript |
-| 02 | Ecos Aether | RPG que se juega en la página web | Web |
-| 03 | Void Trade | Juego web de asteroides, a mi manera | Web |
+| 02 | [Ecos Aether](https://github.com/JuanChiki/Ecos-De-Aether) | RPG que se juega en la página web | Web |
+| 03 | [Void Trade](https://github.com/JuanChiki/void-trader) | Juego web de asteroides, a mi manera | Web |
 | 04 | [Biblioteca](https://github.com/JuanChiki/Pajina-Biblioteca) | Libros, estudiantes y préstamos, con exportación a PDF o Excel | PHP |
-| 05 | RPG en Python | RPG con muchas posibilidades | Python |
-| 06 | Baraja inglesa | Juego de cartas con programación orientada a objetos | Java |
-
-<!-- Cuando tengas los enlaces exactos, cambia los nombres de Ecos Aether, Void Trade,
-     RPG en Python y Baraja inglesa por [Nombre](https://github.com/JuanChiki/NOMBRE-DEL-REPO) -->
+| 05 | [RPG en Python](https://github.com/JuanChiki/RPG-Python) | RPG con muchas posibilidades | Python |
+| 06 | [Baraja inglesa](https://github.com/JuanChiki/baraja-inglesa) | Juego de cartas con programación orientada a objetos | Java |
 
 ---
 
@@ -73,9 +71,11 @@ Me gusta crear juegos y aplicaciones web, aprender cosas nuevas y resolver probl
 <div align="center">
 
 ```
-┌────────────────────────┐
-│  gracias por pasar :)  │
-└────────────────────────┘
+┌────────────────────────────┐
+│                    {\_/}   │
+│  gracias por pasar ( '.')  │
+│                    / >💖   │
+└────────────────────────────┘
 ```
 
 </div>
