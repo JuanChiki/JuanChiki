@@ -8,7 +8,7 @@
  ███   ███  █   █ █   █   █   █  ███   ███  █   █ ████ 
 ```
 
-`.      *        +      .         *      .        +      .`
+`.      *        +      .         *      .        +      .      *        +      .         *      .        +      `
 
 **Técnico en Programación de Software · Estudiante de Ingeniería Informática**
 
